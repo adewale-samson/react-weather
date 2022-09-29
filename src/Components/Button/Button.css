@@ -1,0 +1,14 @@
+.btn {
+  background: linear-gradient(108.5deg, #3a5e72 4.95%, #5c93b1 132.43%);
+  box-shadow: inset 7px 7px 10px rgba(79, 136, 167, 0.3);
+  border-radius: 20px;
+  width: 125px;
+  height: 58px;
+  color: #fff;
+  font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 38px;
+cursor: pointer;
+}

@@ -1,0 +1,28 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+.weather-text {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  text-align: center;
+  width: 628px;
+  margin: 0 auto;
+  margin-top: 40px;
+  color: #FFFFFF;
+  /* line-height: 65px; */
+}
+@media screen and (max-width: 768px) {
+  .weather-text{
+    width: 500px;
+  }
+}
+@media screen and (max-width: 468px) {
+  .weather-text{
+    width: 300px;
+    margin: 0 auto;
+  }
+}
