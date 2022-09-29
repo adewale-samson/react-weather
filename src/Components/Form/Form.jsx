@@ -33,7 +33,7 @@ const Form = () => {
       <form action="" className="form-flex">
         <input
           type="search"
-          placeholder="Search Here"
+          placeholder="Search City Here"
           className="search"
           value={searchCity}
           onChange={inputHandler}
